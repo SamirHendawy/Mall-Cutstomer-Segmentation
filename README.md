@@ -26,3 +26,7 @@ Mall Cutstomer Segmentation Using KMeans and Hierarchical Clustering
 
 ### Clustring using KMenas
 <img src="kmeans.png">
+
+### Clustring using Hierarchical 
+- Agglomerative (bottom-up) approach
+<img src="h.cluster.png">
