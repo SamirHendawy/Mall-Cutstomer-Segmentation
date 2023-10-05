@@ -2,7 +2,7 @@
 Mall Cutstomer Segmentation Using KMeans and Hierarchical Clustering 
 
 ### Dataset
-> - From Kaggle
+> - From Kaggle : https://www.kaggle.com/datasets/shwetabh123/mall-customers/data
 
 ### Project Step
 > - 1. Import libraries.
@@ -23,3 +23,6 @@ Mall Cutstomer Segmentation Using KMeans and Hierarchical Clustering
 > - 5.2.1 Clustering Using Scipy
 > - 5.2.2 Dendrogram
 > - 5.2.3 Using Sklearn 
+
+### Clustring using KMenas
+<img src="kmeans.png">
