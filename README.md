@@ -30,3 +30,13 @@ Mall Cutstomer Segmentation Using KMeans and Hierarchical Clustering
 ### Clustring using Hierarchical 
 - Agglomerative (bottom-up) approach
 <img src="h.cluster.png">
+
+### Conclusion
+- Percentage of female customers: 65%.
+- age column : right-skewed distribution in age and the mean is greater than the median.
+- There are outliers in Annual income and i replaced it with median value.
+- Annual income and age no correlation.
+- between Age and spending negative correlation.
+- spending score of Female is Higher than male.
+- optimal according to elbow method that k=5 .
+- optimal according to silhouete score is also 5 .
